@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://piyushrana11.github.io/Piyush_rana/sitemap.xml
